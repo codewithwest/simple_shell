@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Mandalorian Simple Shell
 
 Project details
@@ -121,3 +122,6 @@ Authors
 Mankga Tebogo Jonas Lekgau
 
 Mokhutso Manaswe
+=======
+
+>>>>>>> 9c2877a93f46c736bdaa08fca797c9e72a3dda93
